@@ -11,3 +11,9 @@
 ### Projects in the works:
 
 -  Door Alarm and Camera: [Backend](https://github.com/d-e-k-k/rpi_door_backend), [Controller](https://github.com/d-e-k-k/rpi_door_controller)
+
+<h2>Github Stats</h2>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=d-e-k-k)
+
+
