@@ -1,5 +1,5 @@
-
-:wave:Hi there, my name is David! I am a developer that loves making and breaking everything from Rpis to Apis. I love Javascript and IOT devices. 
+![Dekk gif](https://github.com/d-e-k-k/d-e-k-k/blob/main/4vicxe.gif)
+:wave:Hi there, my name is David! I am a developer that loves making and breaking everything from Rpis to Apis. I enjoy Javascript, Python, and IOT devices. 
 
 ### My showcase projects are:
 - AquaPi:  [Frontend](https://github.com/d-e-k-k/aquapi_frontend), [Backend](https://github.com/d-e-k-k/aquapi_backend), [Controller](https://github.com/d-e-k-k/aquapi_aquarium_controller)
