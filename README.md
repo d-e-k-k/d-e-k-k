@@ -1,4 +1,6 @@
 ![Dekk gif](https://github.com/d-e-k-k/d-e-k-k/blob/main/4vicxe.gif)
+<br>
+
 :wave:Hi there, my name is David! I am a developer that loves making and breaking everything from Rpis to Apis. I enjoy Javascript, Python, and IOT devices. 
 
 ### My showcase projects are:
