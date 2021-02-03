@@ -17,7 +17,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=d-e-k-k)
 
-## I am also an Admin and Contributor of Code Finesse
+## I am also an Admin and Contributor for Code Finesse
 
 *Come check us out on:*<br>
 
