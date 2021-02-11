@@ -53,11 +53,6 @@ This project is in development. Check out the related repos!
   
 </details>
 
-<details>
-<summary>Orange: </summary>
-<br>
-
-
 
 **🌱  I’m currently learning** 
 
