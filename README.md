@@ -13,6 +13,10 @@
 
 -  Door Alarm and Camera: [Backend](https://github.com/d-e-k-k/rpi_door_backend), [Controller](https://github.com/d-e-k-k/rpi_door_controller)
 
+**🌱  I’m currently learning** 
+
+C and loving it!. Tired of these power hungry interpreted languages :wink: :battery: :x: :electric_plug:
+
 <h2>Github Stats</h2>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=d-e-k-k)
