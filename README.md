@@ -12,7 +12,8 @@
 [Deployed Site](https://aquapi.herokuapp.com/), [Frontend](https://github.com/d-e-k-k/aquapi_frontend), [Backend](https://github.com/d-e-k-k/aquapi_backend), [Controller](https://github.com/d-e-k-k/aquapi_aquarium_controller)
 <br>
 
-![](https://github.com/d-e-k-k/aquapi_frontend/raw/main/public/screen-shot.png)
+![Aquapi project screen shot](https://user-images.githubusercontent.com/71715721/107646905-833a1900-6c48-11eb-9d81-0003be239435.png)
+
 </details>
 
 
