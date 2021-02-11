@@ -2,7 +2,7 @@
 <br>
 
 
-:wave:Hi there, my name is David! I am a developer that loves making and breaking everything from Rpis to Apis. I enjoy Javascript, Python, and IOT devices. 
+:wave:Hi there, my name is David! I am a developer that loves making and breaking everything from Rpis to Apis. I enjoy Javascript, Python, embedded systems, and IOT devices. 
 
 ### My showcase projects are:
 <details>
@@ -42,7 +42,22 @@
 
 ### Projects in the works:
 
--  Door Alarm and Camera: [Backend](https://github.com/d-e-k-k/rpi_door_backend), [Controller](https://github.com/d-e-k-k/rpi_door_controller)
+<details>
+<summary>Door Alarm and Camera:</summary>
+<br>
+  
+[Backend](https://github.com/d-e-k-k/rpi_door_backend), [Controller](https://github.com/d-e-k-k/rpi_door_controller)
+This project is in development. Check out the related repos!
+<br>
+
+  
+</details>
+
+<details>
+<summary>Orange: </summary>
+<br>
+
+
 
 **🌱  I’m currently learning** 
 
