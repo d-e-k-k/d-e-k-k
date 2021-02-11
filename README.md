@@ -16,9 +16,29 @@
 
 </details>
 
+<details>
+<summary>RapLibs:</summary>
+<br>
+  
+[Frontend](https://github.com/d-e-k-k/rap-libs), [Deployed Site](https://rap-lib.herokuapp.com/)
+<br>
 
-- Orange: [Backend](https://github.com/Team-Orange4/backend)
-- RapLibs: [Frontend](https://github.com/d-e-k-k/rap-libs)
+![rap-libs screenshot](https://user-images.githubusercontent.com/71715721/103944108-299e7600-5101-11eb-96da-9eefb29410f8.png)
+  
+</details>
+
+<details>
+<summary>Orange: </summary>
+<br>
+
+
+[Backend](https://github.com/Team-Orange4/backend), [Frontend](https://github.com/Team-Orange4/orange-frontend)
+<br>
+![orange sceenshot](https://camo.githubusercontent.com/0ce250eaa20f769023bbcb3ff4095b900a83d6fca6983096c6095dd753498810/68747470733a2f2f6d656469612e6769742e67656e6572616c617373656d622e6c792f757365722f33313231382f66696c65732f39656163333938302d326533612d313165622d393333322d616537653965393039316431)
+</details>
+
+
+
 
 ### Projects in the works:
 
