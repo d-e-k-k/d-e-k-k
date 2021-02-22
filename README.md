@@ -72,7 +72,7 @@ The core backend functionality and controller functionality have been built. Sep
 
 **🌱  I’m currently learning** 
 
-C and loving it!. Tired of these power hungry interpreted languages :wink: :battery: :x: :electric_plug:
+PHP and Yii2
 
 <h2>Github Stats</h2>
 
