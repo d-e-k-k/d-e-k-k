@@ -69,6 +69,21 @@ The core backend functionality and controller functionality have been built. Sep
   
 </details>
 
+### Other Cool Stuff:
+
+<details>
+<summary>Code Wars Challenge Coding Environment Set Up Script</summary>
+<br>
+ 
+[Repo](https://github.com/d-e-k-k/code_wars_file_creator)
+<br>
+<br>
+![gif demo in terminal](https://github.com/d-e-k-k/code_wars_file_creator/blob/main/example.gif)
+
+## Why I made this?
+I do coding challenges and like to keep track of all the completed challenges on my local machine. For every challenge, I need to check if I have done it and if not, make folders and files for it, then open it in VScode and open the challenge in the browser. This php script handles that for me.
+</details>
+
 
 **🌱  I’m currently learning** 
 
